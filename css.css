@@ -1,0 +1,31 @@
+.name-spua {
+  color: black;
+  font-family: cursive;
+  font-size: 40px;
+}
+.spua-border {
+  color: black;
+  font-family: cursive;
+  font-size: 40px;
+  position: relative;
+  top: -60px;
+
+}
+.spua-content {
+  color: black;
+  font-family: cursive;
+  font-size: 19px;
+}
+table {
+  
+  position: relative;
+  left: 1450px;
+  top: -1490px;
+  font-family: cursive;
+}
+img {
+  position: relative;
+  left: 1494px;
+  top: -1490px;
+  font-family: cursive;
+}
