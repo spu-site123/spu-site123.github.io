@@ -18,14 +18,14 @@
 }
 table {
   
-  position: relative;
-  left: 1450px;
-  top: -1490px;
+  position: absolute;
+  left: 1460px;
+  top: 140px;
   font-family: cursive;
 }
-img {
-  position: relative;
-  left: 1494px;
-  top: -1490px;
+.spu {
+  position: absolute;
+  left: 1500px;
+  top: 0px;
   font-family: cursive;
 }
